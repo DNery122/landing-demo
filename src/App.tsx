@@ -30,8 +30,8 @@ function App() {
               <h1>ESTA ES MI VERSIÓN DE PRUEBA XD</h1>
 
               <p>
-                Diseñamos sitios web modernos, rápidos y adaptados a cualquier
-                dispositivo para ayudarte a conseguir más clientes.
+                Creamos experiencias digitales modernas, rápidas y diseñadas
+                para convertir visitantes en clientes.
               </p>
 
               <div className="hero-buttons">
