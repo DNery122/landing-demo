@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
@@ -25,17 +25,13 @@ function App() {
         <section className="hero">
           <div className="container hero-content">
             <div className="hero-text">
-              <span className="badge">
-                Desarrollo web profesional
-              </span>
+              <span className="badge">Desarrollo web profesional</span>
 
-              <h1>
-                Creamos páginas web que ayudan a hacer crecer tu negocio XDDD
-              </h1>
+              <h1>ESTA ES MI VERSIÓN DE PRUEBA XD</h1>
 
               <p>
-                Diseñamos sitios web modernos, rápidos y adaptados a
-                cualquier dispositivo para ayudarte a conseguir más clientes.
+                Creamos experiencias digitales modernas, rápidas y diseñadas
+                para convertir visitantes en clientes.
               </p>
 
               <div className="hero-buttons">
@@ -75,13 +71,9 @@ function App() {
             <div className="section-header">
               <span className="section-label">SERVICIOS</span>
 
-              <h2>
-                Todo lo que necesitas para tener presencia en Internet
-              </h2>
+              <h2>Todo lo que necesitas para tener presencia en Internet</h2>
 
-              <p>
-                Soluciones modernas para empresas y emprendedores.
-              </p>
+              <p>Soluciones modernas para empresas y emprendedores.</p>
             </div>
 
             <div className="services">
@@ -98,8 +90,8 @@ function App() {
                 <div className="service-icon">02</div>
                 <h3>Sitios empresariales</h3>
                 <p>
-                  Sitios profesionales para empresas que quieren fortalecer
-                  su presencia digital.
+                  Sitios profesionales para empresas que quieren fortalecer su
+                  presencia digital.
                 </p>
               </article>
 
@@ -121,14 +113,12 @@ function App() {
             <div>
               <span className="section-label">NOSOTROS</span>
 
-              <h2>
-                Tecnología enfocada en resultados
-              </h2>
+              <h2>Tecnología enfocada en resultados</h2>
             </div>
 
             <p>
-              Combinamos diseño, desarrollo y tecnología para crear
-              experiencias digitales rápidas, modernas y fáciles de utilizar.
+              Combinamos diseño, desarrollo y tecnología para crear experiencias
+              digitales rápidas, modernas y fáciles de utilizar.
             </p>
           </div>
         </section>
@@ -139,20 +129,15 @@ function App() {
             <div>
               <span className="section-label">CONTACTO</span>
 
-              <h2>
-                ¿Tienes un proyecto en mente?
-              </h2>
+              <h2>¿Tienes un proyecto en mente?</h2>
 
               <p>
-                Cuéntanos qué necesitas y te ayudaremos a convertir tu idea
-                en una solución digital.
+                Cuéntanos qué necesitas y te ayudaremos a convertir tu idea en
+                una solución digital.
               </p>
             </div>
 
-            <a
-              href="mailto:contacto@novaweb.com"
-              className="primary-button"
-            >
+            <a href="mailto:contacto@novaweb.com" className="primary-button">
               Solicitar cotización
             </a>
           </div>
