@@ -30,7 +30,7 @@ function App() {
               </span>
 
               <h1>
-                Creamos páginas web que ayudan a hacer crecer tu negocio XD
+                Creamos páginas web que ayudan a hacer crecer tu negocio XDDD
               </h1>
 
               <p>
