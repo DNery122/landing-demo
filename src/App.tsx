@@ -1,6 +1,6 @@
-import "./App.css";
 import { useState } from 'react';
 import type { FormEvent } from 'react';
+import "./App.css";
 
 function App() {
   const [sending, setSending] = useState(false);
